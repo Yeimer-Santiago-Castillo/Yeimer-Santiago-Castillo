@@ -9,7 +9,7 @@
   
 - 👨‍🎓: I'm a grade 11, High School Student.
 - 👨‍💻: I'm currently working on some independent projects to my own learning.
-- 📖: I’m currently learning Kotlin, Java and C++. 📲
+- 📖: I’m currently learning Kotlin and Java. 📲
 - 🤔: I’m looking for help with anything I am currently learning! 😅
 - 💬: Don't ask me anything yet, I know the basics.
 - 👨🏽‍🦱 Pronouns: He/His
@@ -29,13 +29,15 @@
 
 <p>
     <a href="https://github.com/Yeimer-Santiago-Castillo"><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"></a>
-    <a href="https://github.com/Yeimer-Santiago-Castillo"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
     <a href="https://github.com/Yeimer-Santiago-Castillo"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+    <a href="https://github.com/Yeimer-Santiago-Castillo"><img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
+    <a href="https://github.com/Yeimer-Santiago-Castillo"><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
+ 
 </p>
 
 ### 💻 Software and Tools
 
 <p>
-    <a href="https://github.com/Yeimer-Santiago-Castillo"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
-  <a href="https://github.com/Yeimer-Santiago-Castillo"><img alt="Android Studio" src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white"></a>
+    <a href="https://github.com/Yeimer-Santiago-Castillo"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"></a>
+    <a href="https://github.com/Yeimer-Santiago-Castillo"><img alt="Android Studio" src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white"></a>
 </p>
